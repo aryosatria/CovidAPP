@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CovApp</string>
+    <string name="ringkasan">Summary</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="setting">Setting</string>
+    <string name="info">Info</string>
+    <string name="riwayat">History</string>
+    <string name="not_update">Historical Data has not been Updated</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Heal</string>
+    <string name="deaths">Decease</string>
+    <string name="keterangan">Info :</string>
+    <string name="world_summary_data">Summary of World Data</string>
+    <string name="from_corona">From Covid-19</string>
+    <string name="last_update">Last Update</string>
+    <string name="indonesia_summary_data">Summary of Indonesia Data</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_language">Change Language</string>
+    <string name="About">About</string>
+    <string name="TextAbout">This application was made to find out developments about the Covid-19 / Corona Case in the World and Indonesia</string>
+    <string-array name="settings">
+        <item>Language Settings</item>
+        <item>About Application</item>
+</string-array>
+</resources>
